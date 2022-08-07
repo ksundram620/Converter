@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+}
+#main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#option{
+    margin-top: 10%;
+    width: 350px;
+    height: 400px;
+    background-color: white;
+    padding: 0px;
+    background-color: rgb(34, 34, 60);
+}
+select{
+    width: 155px;
+    margin: 20px 8px;
+}
+#input{
+    display: flex;
+    justify-content: center;
+    margin: 20px 1px;
+}
+input{
+    width: 300px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+#button{
+ display: flex;
+ justify-content: center;
+ margin-top: 10px;   
+}
+button{
+    width: 200px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+h2{
+    display: inline;
+}
+#FromTo{
+    display: flex;
+    justify-content: space-around;
+}
+h2{
+    color: white;
+}
+#span1{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
